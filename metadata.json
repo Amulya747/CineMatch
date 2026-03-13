@@ -1,0 +1,5 @@
+{
+  "name": "CineMatch AI",
+  "description": "A smart movie recommendation app with mood, genre, and movie-based suggestions powered by Gemini AI.",
+  "requestFramePermissions": []
+}
